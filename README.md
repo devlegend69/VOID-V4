@@ -1,5 +1,4 @@
 # VOID-V4
-<------------------------------------------------------------------------------------------->
              HELLO WELCOME TO VOID V4 GUIDE !!
 
 Steps to use Void v4 :-
@@ -14,5 +13,4 @@ Step 7 :- You are Ready to nuke server's now !!
 
 IF YOU NEED ANY HELP JOIN :- discord.gg/hrcxontop
 
-Credits -> Made by ĦɌCӾ 𒂟†LΣGΣΠD†₊⋆𓆩🥀𓆪†ᴬᴴ†ᴶᴷ#0001 With ❤ 
-<------------------------------------------------------------------------------------------>
+Credits -> Made by ĦɌCӾ 𒂟†LΣGΣΠD†₊⋆𓆩🥀𓆪†ᴬᴴ†ᴶᴷ#0001 With ❤
