@@ -8,3 +8,8 @@ sys
 threading
 datetime
 json
+Fore
+time
+Style
+fg
+attr
