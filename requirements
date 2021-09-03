@@ -1,1 +1,10 @@
-
+discord
+colorama
+requests
+aiohttp
+asyncio
+random
+sys
+threading
+datetime
+json
